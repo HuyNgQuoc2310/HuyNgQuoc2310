@@ -1,4 +1,4 @@
-## <div align="center">  Awnhon 🩷 I'm .....
+## <div align="center">  Awnhon 🩷 I'm Huy
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xqaGpidDdxdG43YXM2b3ZsYXcwbmZjN2hmeWFrd3V1b2RxOHAzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtZSl6mcqfmvCBI2cb/giphy.gif" />
 </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Posts and Telecommunications Institute of Technology**
 
-- 📫 How to reach me **.....@gmail.com**
+- 📫 How to reach me **nquoc.huy2123@gmail.com**
 
 - ⚡ Fun fact **ERROR**
 
